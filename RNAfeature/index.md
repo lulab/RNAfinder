@@ -1,3 +1,3 @@
 ---
-redirect_to: "/RNAfinder/NP.html"
+redirect_to: "../NP.html"
 ---
